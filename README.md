@@ -2,6 +2,8 @@
 
 AgriSmart is an open‑source AI advisory platform designed to empower India's smallholder farmers. By leveraging Meta's LLaMA models, AgriSmart provides real‑time, localized agricultural insights through a multilingual chatbot interface. The project aims to address key challenges such as crop management, weather forecasting, crop disease diagnostics, and market connectivity, all via a user‑friendly digital interface.
 
+![AgriSmart Demo Image](MockUp.png)
+
 ## Overview 
 
 AgriSmart is a modular, cloud‑edge hybrid architecture consisting of the following layers:
