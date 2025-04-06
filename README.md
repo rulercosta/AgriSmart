@@ -40,10 +40,7 @@ AgriSmart is a modular, cloud‑edge hybrid architecture consisting of the follo
 
 ## Contact
 
-For any inquiries or contributions, please reach out to:  
-[rulercosta.mail@gmail.com](mailto:rulercosta.mail@gmail.com)
-
-GitHub: [rulercosta](https://github.com/rulercosta)
+For any inquiries or contributions, please reach out to us.
 
 License: [LICENSE](LICENSE)
 
