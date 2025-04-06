@@ -34,6 +34,8 @@ AgriSmart is a modular, cloud‑edge hybrid architecture consisting of the follo
   - Implements robust encryption and privacy controls.
   - Utilizes safety mechanisms inspired by LLaMA Guard to filter outputs and ensure responsible use.
 
+![AgriSmart HLD Architecture](AgriSmart.png)
+
 ## Contact
 
 For any inquiries or contributions, please reach out to:  
